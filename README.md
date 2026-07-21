@@ -15,7 +15,11 @@ AKA chknwing0. College Student that is currently making some massive game projec
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitwen06&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=gitwen06&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
+
+<p align="center">
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
