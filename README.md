@@ -3,7 +3,7 @@ AKA chknwing0. College Student that is currently making some massive game projec
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwen06&label=Profile%20views&color=0e75b6&style=flat" alt="gitwen06" /> </p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/lolgamer06])(https://discord.com/users/708268781637730324) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shellwin.escorial.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chkn_wing0)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/708268781637730324) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shellwin.escorial.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chkn_wing0)
 
 Contact me at: shellwinescorial14@gmail.com
 
