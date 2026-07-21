@@ -1,10 +1,11 @@
 # 💫 About Me:
 AKA chknwing0. College Student that is currently making some massive game projects to learn programming, modeling, storytelling, sound design and game design.<br>Busy making a solo game project to learn and expand tech stacks.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwen06&label=Profile%20views&color=0e75b6&style=flat" alt="gitwen06" /> </p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lolgamer06) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shellwin.escorial.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chkn_wing0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shellwinescorial14@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/lolgamer06](https://discord.com/users/708268781637730324) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shellwin.escorial.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chkn_wing0)
+
+Contact me at: shellwinescorial14@gmail.com
 
 # 💻 Tech Stack:
 ### Languages
@@ -25,6 +26,5 @@ AKA chknwing0. College Student that is currently making some massive game projec
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gitwen06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gitwen06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
