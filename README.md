@@ -1,5 +1,6 @@
 # 💫 About Me:
 AKA chknwing0. College Student that is currently making some massive game projects to learn programming, modeling, storytelling, sound design and game design.<br>Busy making a solo game project to learn and expand tech stacks.
+https://chknwing0.itch.io/balut-deliveries || Check out my previous game!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwen06&label=Profile%20views&color=0e75b6&style=flat" alt="gitwen06" /> </p>
 
 ## 🌐 Socials:
