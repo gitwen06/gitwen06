@@ -2,7 +2,7 @@
 AKA chknwing0. College Student that is currently making some massive game projects and taking freeCodeCamp Full-Stack Developer Course to learn programming, full-stack development, modeling, storytelling, sound design, game design, photography and other hobbies.<br>Busy making a solo game project and taking freeCodeCamp Full-Stack Developer Course to learn and expand tech stacks.
 <br>
 https://chknwing0.itch.io/balut-deliveries || Check out my previous game!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwen06&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="gitwen06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwen06&label=Profile%20views&color=0e75b6&style=flat&v=3" alt="gitwen06" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/708268781637730324)
